@@ -1,0 +1,7 @@
+Embed font:
+
+<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+
+Specify in CSS:
+
+font-family: 'IBM Plex Sans', sans-serif;
